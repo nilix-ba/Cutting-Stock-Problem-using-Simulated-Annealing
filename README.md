@@ -1,3 +1,3 @@
 # Cutting-Stock-Problem-using-Simulated-Annealing
 
-[embed]http://example.com/file.pdf[/embed]
+[embed]https://github.com/nilix-ba/Cutting-Stock-Problem-using-Simulated-Annealing/blob/main/HW4.pdf[/embed]
